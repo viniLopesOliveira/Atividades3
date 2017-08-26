@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Atividades</string>
     <string name="activity_a">Atividade A</string>
+    <string name="activity_b">Atividade B</string>
+    <string name="activity_c">Atividade C</string>
     <string name="btn_start_a_label">Iniciar A</string>
     <string name="btn_start_b_label">Iniciar B</string>
     <string name="btn_start_c_label">Iniciar C</string>
